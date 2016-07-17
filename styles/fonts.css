@@ -1,0 +1,52 @@
+
+@font-face {
+	font-family: 'Bringin';
+	src: url('../fonts/bringin.eot');
+	src: local('☺'), url('../fonts/bringin.woff') format('woff'), 
+	url('../fonts/bringin.ttf') format('truetype'), 
+	url('../fonts/bringin.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Open-Sans';
+	src: url('../fonts/OpenSans.eot');
+	src: local('☺'), url('../fonts/OpenSans.woff') format('woff'), 
+	url('../fonts/OpenSans.ttf') format('truetype'), 
+	url('../fonts/OpenSans.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+ 
+@font-face {
+	font-family: 'Raleway';
+	src: url('../fonts/ralewayregular.eot');
+	src: local('☺'), url('../fonts/ralewayregular.woff') format('woff'), 
+	url('../fonts/ralewayregular.ttf') format('truetype'), 
+	url('../fonts/ralewayregular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'OpenSans-Bold';
+	src: url('../fonts/OpenSans-Bold.eot');
+	src: local('☺'), url('../fonts/OpenSans-Bold.woff') format('woff'), 
+	url('../fonts/OpenSans-Bold.ttf') format('truetype'), 
+	url('../fonts/OpenSans-Bold.svg') format('svg');
+}
+
+
+@font-face {
+	font-family: 'Roboto-black';
+	src: url('../fonts/robotoblack.eot');
+	src: local('☺'), url('../fonts/robotoblack.woff') format('woff'), 
+	url('../fonts/robotoblack.ttf') format('truetype'), 
+	url('../fonts/robotoblack.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+

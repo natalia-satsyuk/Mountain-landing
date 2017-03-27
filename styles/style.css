@@ -1,12 +1,3 @@
-/*Bringin*/
-
-/*Open-Sans*/
-
-/*Raleway*/
-
-/*OpenSans-Bold*/
-
-/*Roboto-black*/
 
 * {
 	box-sizing: border-box;
@@ -69,7 +60,7 @@
 }
 
 .wrapper-nav-header {
-	background: url("../images/main-with-rec.png") center no-repeat;
+	background: url("../images/main-with-rec.jpg") center no-repeat;
 	background-size: cover;
 }
 
@@ -173,7 +164,7 @@
 /*----ABOUT----*/
 
 .wrapper-about {
-	background: url("../images/map.png") center no-repeat;
+	background: url("../images/map.jpg") center no-repeat;
 	background-size: cover;
 }
 
@@ -332,7 +323,7 @@
 
 
 .wrapper-wanna-go {
-	background: url("../images/trees.png") center no-repeat;
+	background: url("../images/trees.jpg") center no-repeat;
 	background-size: cover;
 }
 
@@ -342,7 +333,7 @@
 
 .wanna-go-block {
 	width: 61%;
-	background: url("../images/waves.png") left 5px no-repeat;
+	background: url("../images/waves.jpg") left 5px no-repeat;
 }
 
 .wanna-go-text {
@@ -406,7 +397,7 @@
 	color: #36aeea;
 	font-weight: 400;
 	padding: 20px;
-	background: url("../images/lock.png") left no-repeat;
+	background: url("../images/lock.jpg") left no-repeat;
 }
 
 
@@ -421,7 +412,7 @@
 	padding-top: 3%;
 	margin-bottom: -10px;
 	width: 75%;
-	background: url("../images/hh.png") bottom repeat-x;
+	background: url("../images/hh.jpg") bottom repeat-x;
 }
 
 .work-scheme {
@@ -462,7 +453,7 @@
 	width: 25%;
 	padding: 90px 35px 35px;
 	text-align: center;
-	background: url("../images/lines.png") center top no-repeat;
+	background: url("../images/lines.jpg") center top no-repeat;
 }	
 
 .work-scheme-item-image {
@@ -492,7 +483,7 @@
 /*----TRAVEL----*/
 
 .wrapper-travel {
-	background: url("../images/worldmap-dots.png") center no-repeat;
+	background: url("../images/worldmap-dots.jpg") center no-repeat;
 	background-size: cover;
 }
 
@@ -513,27 +504,27 @@
 }
 
 .mountains-1 {
-	background: url("../images/back-1.png") center no-repeat;
+	background: url("../images/back-1.jpg") center no-repeat;
 	background-size: cover;
 }
 
 .mountains-2 {
-	background: url("../images/back-2.png") center no-repeat;
+	background: url("../images/back-2.jpg") center no-repeat;
 	background-size: cover;
 }
 
 .mountains-3 {
-	background: url("../images/back-3.png") center no-repeat;
+	background: url("../images/back-3.jpg") center no-repeat;
 	background-size: cover;
 }
 
 .mountains-4 {
-	background: url("../images/back-4.png") center no-repeat;
+	background: url("../images/back-4.jpg") center no-repeat;
 	background-size: cover;
 }
 
 .mountains-5 {
-	background: url("../images/back-5.png") center no-repeat;
+	background: url("../images/back-5.jpg") center no-repeat;
 	background-size: cover;
 }
 
@@ -589,9 +580,7 @@
 	font-weight: 700;
 }
 
-
 /*----GALLERY----*/
-
 .gallery {
 	padding: 80px 15px;
 }
@@ -622,12 +611,10 @@
 
 .gallery-image {
 	width: 100%;
-	/*height: auto;*/
 }
 
 
 /*----SPONSORS----*/
-
 .wrapper-sponsors {
 	background-color: #f8f9fa;
 }
@@ -647,11 +634,9 @@
 	border-bottom: 1px solid #CBCCCD;
 } 
 
-
 /*----CLIENTS----*/
-
 .wrapper-clients {
-	background: url("../images/last-back.png") center no-repeat;
+	background: url("../images/last-back.jpg") center no-repeat;
 	background-size: cover;
 }
 
@@ -667,7 +652,7 @@
 .clients-saying-item {
 	float: left;
 	width: 50%;
-	background: url("../images/quotes.png") 25px 0 no-repeat;
+	background: url("../images/quotes.jpg") 25px 0 no-repeat;
 	padding: 25px;
 }
 
@@ -696,7 +681,7 @@
 }
 
 .clients-for-form {
-	background: url("../images/form.png") center no-repeat;
+	background: url("../images/form.jpg") center no-repeat;
 	background-size: cover;
 	width: 44%;
 	margin: 160px auto;
@@ -785,10 +770,3 @@
 	color: #7FC5D5;
 	line-height: 7px;
 }
-
-
-
-
-
-
-
